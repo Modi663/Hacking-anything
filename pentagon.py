@@ -18,4 +18,4 @@ elif x == "дать пароль":
 else:
     print("Пиши нормально")
 
-
+input("press close to exit") 

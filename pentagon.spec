@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['pentagon.py'],
-             pathex=['C:\\Users\\vadim\\Desktop'],
+             pathex=['C:\\Users\\vadim\\Desktop\\Hacking-anything'],
              binaries=[],
              datas=[],
              hiddenimports=[],
